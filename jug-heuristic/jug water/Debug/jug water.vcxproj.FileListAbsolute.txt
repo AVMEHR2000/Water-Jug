@@ -1,0 +1,4 @@
+E:\Projects\Exersise 2 ai cpp\jug\jug water\Debug\jug water.exe
+E:\Projects\Exersise 2 ai cpp\jug\jug water\Debug\jug water.pdb
+C:\Users\AVM\Desktop\Ai Exersize 2\jug-heuristic\jug water\Debug\jug water.exe
+C:\Users\AVM\Desktop\Ai Exersize 2\jug-heuristic\jug water\Debug\jug water.pdb
